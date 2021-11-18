@@ -66,7 +66,7 @@ hr{
     background: #333;
     height: 0;
     display: flex;
-    justify-content: center;
+    justify-content: end;
     padding-top: 13px;
     overflow: hidden;
 }
@@ -477,6 +477,11 @@ footer > p{
         flex: 0 0 15%;
     }
 
+    .web-img{
+        height: 80px;
+        border-radius: 25%;
+    }
+
     .nav-bar{
         flex: 1 0 auto;
         height: 100%;
@@ -514,6 +519,11 @@ footer > p{
     }
     .social-icons ul li{
         padding: 20px;
+    }
+
+    .social-icons ul li a i{
+        padding-top: 21px;
+        /* padding: 20px; */
     }
 
     .footer-container{
