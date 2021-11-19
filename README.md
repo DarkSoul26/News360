@@ -6,7 +6,7 @@ HCI(Human Computer Interation) project 2.0: An application for news updates acro
 
 Screenshots of the wesbite:
 
-![image](https://user-images.githubusercontent.com/60578902/142003368-e0e2ab71-5482-4fd2-9016-cf469c7358aa.png)
+![image](https://user-images.githubusercontent.com/60578902/142625174-db3f8690-2c7d-4f35-aea2-ebde64804b6a.png)
 
 ![image](https://user-images.githubusercontent.com/60578902/142003483-a023fa10-a089-4757-9468-e01e99201923.png)
 
